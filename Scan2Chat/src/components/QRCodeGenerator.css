@@ -1,0 +1,15 @@
+.canvas{
+    display: flex;
+    background-color: rgb(243, 202, 243);
+}
+
+.qrcont{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+h2{
+    color: white;
+}
